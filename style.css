@@ -8,7 +8,7 @@ body {
 	margin: 0 auto;
 	max-width: 40em;
 	width: 80%;
-	padding: 4em 0.5em 1em 0.5em;
+	padding: 1em 0.5em;
 	line-height: 1.75em;
 }
 
@@ -17,7 +17,7 @@ h1, h2 {
   line-height: 1.25em;
 }
 
-h1 {
+/*h1 {
 	text-align: center;
 	max-width: 90%;
 	margin: 0 auto;
@@ -29,7 +29,7 @@ h1 {
 		max-width: 70%;
 	}
 }
-
+*/
 
 /*div {
 	width: 10%;
