@@ -87,3 +87,17 @@ div.feature {
 	/*border-radius: 3px;*/
 	margin: 2em 0;
 }
+
+.centered {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.call-to-action {
+	width: 60%;	
+}
+
+.below-the-fold {
+	color: #d4d4d4;
+	border: 4px solid #d4d4d4;
+}
