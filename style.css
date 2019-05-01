@@ -115,3 +115,7 @@ blockquote {
  .off {
  	color: #ccc;
  }
+
+ .sorry {
+ 	text-decoration: line-through;
+ }
