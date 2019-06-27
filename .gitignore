@@ -1,0 +1,12 @@
+# ignore jpg files
+*.jpg
+
+# ignore png files
+*.png
+
+# ignore Sketch files
+*.sketch
+
+# ignore DS_Store files
+*.DS_Store
+
